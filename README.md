@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **VKG5/vkg5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,7 +46,8 @@ Feel free to reach out to me with any question you have :)
 The best way to reach me would be via email!
 bawagupta69@gmail.com 
 
-## 😄 Pronouns: He/Him
+## 😄 Pronouns: 
+He/Him
 
 ## ⚡ Fun fact: 
 I play a lot of games (mostly RPGs), play guitar, develop games and 3D assets! 
