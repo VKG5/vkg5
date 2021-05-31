@@ -21,7 +21,7 @@ Unknown World! A truly procedural game, everything from the world to the fauna a
 
 ## 🌱 I’m currently learning
 
-- Maya <img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
+- Maya <img align="right" width="100" height="100" src="https://cdnb.artstation.com/p/assets/images/images/036/528/381/large/varun-k-gupta-sakura-in-a-ball.jpg?1617899933">
 - Blender
 - Unreal Engine 4 (Can't wait for the stable version of UE5 to release, the public access is already **crazy!**)
 - Substance Painter
