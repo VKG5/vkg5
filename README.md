@@ -21,8 +21,8 @@ Unknown World! A truly procedural game, everything from the world to the fauna a
 
 ## 🌱 I’m currently learning
 
-- Maya 
-- Blender <img align="right" width="128" height="128" src="http://static1.squarespace.com/static/5cb50c0dca525b5f7c4b4841/5cb762889b747a0464cf4b6f/5cc1d38115fcc042fe877cc8/1571682478618/blender_logo_square_256.png?format=1500w">
+- Maya <img align="right" width="128" height="128" src="http://static1.squarespace.com/static/5cb50c0dca525b5f7c4b4841/5cb762889b747a0464cf4b6f/5cc1d38115fcc042fe877cc8/1571682478618/blender_logo_square_256.png?format=1500w"> 
+- Blender
 - Unreal Engine 4 (Can't wait for the stable version of UE5 to release, the public access is already **crazy!**)
 - Substance Painter
 
@@ -31,7 +31,7 @@ Unknown World! A truly procedural game, everything from the world to the fauna a
 
 - Ray Tracing simulation (Any project related to Ray Tracing and engines like LuxCore Render)
 - 3D Asset Designing/Modelling
-- Animation :D <img align="right" width="128" height="128" src="https://img.favpng.com/25/25/2/unreal-engine-4-game-engine-logo-computer-software-png-favpng-9EBiFG6SRzRwdCdYZXr7LbnWu.jpg">
+- Animation :D
 
 ## 🤔 I’m looking for help with
 
