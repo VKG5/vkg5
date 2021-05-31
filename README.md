@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on
 
-Unknown World! A truly procedural game, everything from the world to the fauna and flora populating it will be procedural :D Still a long way to go, but I'm on thr right track!
+Unknown World! A truly procedural game, everything from the world to the fauna and flora populating it will be procedural :D Still a long way to go, but I'm on the right track!
 
 ## 🌱 I’m currently learning
 
 - Maya
 - Blender
 - Unreal Engine 4 (Can't wait for the stable version of UE5 to release, the public access is already **crazy!**)
+- Substance Painter
 
 
 ## 👯 I’m looking to collaborate on
@@ -51,4 +52,5 @@ bawagupta69@gmail.com
 I play a lot of games (mostly RPGs), play guitar, develop games and 3D assets! 
 
 ### Languages
-![github](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)]
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
