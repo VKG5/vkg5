@@ -39,7 +39,7 @@ Unknown World! A truly procedural game, everything from the world to the fauna a
 
 ## 💬 Ask me about
 
-You can find me on various social media platforms that will be lined below! Feel free to reach out to me :)
+Feel free to reach out to me with any question you have :)
 
 ## 📫 How to reach me: 
 The best way to reach me would be via email!
@@ -50,4 +50,5 @@ bawagupta69@gmail.com
 ## ⚡ Fun fact: 
 I play a lot of games (mostly RPGs), play guitar, develop games and 3D assets! 
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+### Languages
+![github](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)]
