@@ -52,6 +52,7 @@ bawagupta69@gmail.com
 I play a lot of games (mostly RPGs), play guitar, develop games and 3D assets! 
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![C#](https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white)
