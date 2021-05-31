@@ -17,20 +17,37 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on
 
-d
+Unknown World! A truly procedural game, everything from the world to the fauna and flora populating it will be procedural :D Still a long way to go, but I'm on thr right track!
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+## 🌱 I’m currently learning
 
-- 📫 How to reach me: 
+- Maya
+- Blender
+- Unreal Engine 4 (Can't wait for the stable version of UE5 to release, the public access is already **crazy!**)
+
+
+## 👯 I’m looking to collaborate on
+
+- Ray Tracing simulation (Any project related to Ray Tracing and engines like LuxCore Render)
+- 3D Asset Designing/Modelling
+- Animation :D
+
+## 🤔 I’m looking for help with
+
+- Procedural Content Generation in UE4
+
+
+## 💬 Ask me about
+
+You can find me on various social media platforms that will be lined below! Feel free to reach out to me :)
+
+## 📫 How to reach me: 
 The best way to reach me would be via email!
-bawagupta69@gmail.com
+bawagupta69@gmail.com 
 
-- 😄 Pronouns: He/Him
+## 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: 
+## ⚡ Fun fact: 
 I play a lot of games (mostly RPGs), play guitar, develop games and 3D assets! 
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
