@@ -23,7 +23,7 @@ Unknown World! A truly procedural game, everything from the world to the fauna a
 
 - Maya <img align="right" width="128" height="128" src="http://static1.squarespace.com/static/5cb50c0dca525b5f7c4b4841/5cb762889b747a0464cf4b6f/5cc1d38115fcc042fe877cc8/1571682478618/blender_logo_square_256.png?format=1500w"> 
 - Blender Scripting (We gonna make everything procedural baby)
-- Unreal Engine 4 (Can't wait for the stable version of UE5 to release, the public access is already **crazy!**)
+- Unreal Engine 4 (Transitioning to UE5)
 - Substance Painter
 
 
