@@ -21,21 +21,21 @@ Unknown World! A truly procedural game, everything from the world to the fauna a
 
 ## 🌱 I’m currently learning
 
-- Maya <img align="right" width="128" height="128" src="http://static1.squarespace.com/static/5cb50c0dca525b5f7c4b4841/5cb762889b747a0464cf4b6f/5cc1d38115fcc042fe877cc8/1571682478618/blender_logo_square_256.png?format=1500w"> 
+- Houdini <img align="right" width="128" height="128" src="http://static1.squarespace.com/static/5cb50c0dca525b5f7c4b4841/5cb762889b747a0464cf4b6f/5cc1d38115fcc042fe877cc8/1571682478618/blender_logo_square_256.png?format=1500w"> 
 - Blender Scripting (We gonna make everything procedural baby)
-- Unreal Engine 4 (Transitioning to UE5)
-- Substance Painter
+- Unreal Engine 5 (C++ Scripting and Level Design)
+- Procedural Workflows for Blender and Unreal
 
 
 ## 👯 I’m looking to collaborate on
 
 - Ray Tracing simulation (Any project related to Ray Tracing and engines like LuxCore Render)
-- 3D Asset Designing/Modelling
-- Animation :D
+- Core Engine Development (Working on a Rendering Engine using OpenGL atm)
+- Procedural Content Generation using C++/Python
 
 ## 🤔 I’m looking for help with
 
-- Procedural Content Generation in UE4
+- Engine Development using C++ and OpenGL
 
 
 ## 💬 Ask me about
@@ -51,7 +51,7 @@ He/Him
 
 ## ⚡ Fun fact: 
 - I play a lot of games (mostly RPGs), play guitar, develop games and 3D assets! 
-- Also started Freelance recently! Contact me for more information ;9
+- Also started Freelancing recently! Contact me for more information ;9
 
 ### Languages	
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
